@@ -760,9 +760,10 @@ os-browserify@~0.3.0:
   resolved "https://registry.yarnpkg.com/os-browserify/-/os-browserify-0.3.0.tgz#854373c7f5c2315914fc9bfc6bd8238fdda1ec27"
   integrity sha1-hUNzx/XCMVkU/Jv8a9gjj92h7Cc=
 
-"pact-lang-api@git+https://github.com/kadena-io/pact-lang-api.git#c63892c":
+"pact-lang-api@https://github.com/kadena-io/pact-lang-api.git#c63892c":
   version "3.0.0"
-  resolved "git+https://github.com/kadena-io/pact-lang-api.git#c63892c40a19ce732cf823c17eebf5d1b2f643ba"
+  uid c63892c40a19ce732cf823c17eebf5d1b2f643ba
+  resolved "https://github.com/kadena-io/pact-lang-api.git#c63892c40a19ce732cf823c17eebf5d1b2f643ba"
   dependencies:
     base64-url "^2.2.1"
     blakejs "^1.0.1"
@@ -804,9 +805,9 @@ path-is-absolute@^1.0.0, path-is-absolute@^1.0.1:
   integrity sha1-F0uSaHNVNP+8es5r9TpanhtcX18=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-platform@~0.11.15:
   version "0.11.15"
