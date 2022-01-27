@@ -286,9 +286,9 @@ builtin-status-codes@^3.0.0:
   integrity sha1-hZgoeOIbmOHGZCXgPQF0eI9Wnug=
 
 cached-path-relative@^1.0.0, cached-path-relative@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/cached-path-relative/-/cached-path-relative-1.0.2.tgz#a13df4196d26776220cc3356eb147a52dba2c6db"
-  integrity sha512-5r2GqsoEb4qMTTN9J+WzXfjov+hjxT+j3u5K+kIVNIwAd99DLCJE9pBIMP1qVeybV6JiijL385Oz0DcYxfbOIg==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/cached-path-relative/-/cached-path-relative-1.1.0.tgz#865576dfef39c0d6a7defde794d078f5308e3ef3"
+  integrity sha512-WF0LihfemtesFcJgO7xfOoOcnWzY/QHR4qeDqV44jPU3HTI54+LnfXK3SA27AVVGCdZFgjjFFaqUA9Jx7dMJZA==
 
 cipher-base@^1.0.0, cipher-base@^1.0.1, cipher-base@^1.0.3:
   version "1.0.4"
@@ -760,9 +760,10 @@ os-browserify@~0.3.0:
   resolved "https://registry.yarnpkg.com/os-browserify/-/os-browserify-0.3.0.tgz#854373c7f5c2315914fc9bfc6bd8238fdda1ec27"
   integrity sha1-hUNzx/XCMVkU/Jv8a9gjj92h7Cc=
 
-"pact-lang-api@git+https://github.com/kadena-io/pact-lang-api.git#c63892c":
+"pact-lang-api@https://github.com/kadena-io/pact-lang-api.git#c63892c":
   version "3.0.0"
-  resolved "git+https://github.com/kadena-io/pact-lang-api.git#c63892c40a19ce732cf823c17eebf5d1b2f643ba"
+  uid c63892c40a19ce732cf823c17eebf5d1b2f643ba
+  resolved "https://github.com/kadena-io/pact-lang-api.git#c63892c40a19ce732cf823c17eebf5d1b2f643ba"
   dependencies:
     base64-url "^2.2.1"
     blakejs "^1.0.1"
